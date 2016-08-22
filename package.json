@@ -1,0 +1,22 @@
+{
+  "name": "labs",
+  "version": "1.0.0",
+  "description": "trying to use an API",
+  "main": "read.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robocopkaka/api_lab.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Okereke Onyekachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robocopkaka/api_lab/issues"
+  },
+  "homepage": "https://github.com/robocopkaka/api_lab#readme"
+}
