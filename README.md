@@ -5,9 +5,9 @@
 
 ## Classes
 ### getMedium
-	This class allows you retrieve a user's details from Medium, using the getUserDetails() method. <br/>
+	This class allows you retrieve a user's details from Medium, using the getUserDetails() method.
 	The method takes no parameters
 
 ### postToMedium
-	This class allows you make a post to medium using the makeAPost() methos. <br/>
+	This class allows you make a post to medium using the makeAPost() methos.
 	The method takes no parameters
