@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/robocopkaka/api_lab/issues"
   },
-  "homepage": "https://github.com/robocopkaka/api_lab#readme"
+  "homepage": "https://github.com/robocopkaka/api_lab#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "chai-http": "^1.0.0"
+  }
 }
