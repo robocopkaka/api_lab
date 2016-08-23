@@ -1,4 +1,4 @@
-function getMedium(){
+module.exports = function getMedium(){
 	
 	const readline = require('readline');
 	var request = require('request');
